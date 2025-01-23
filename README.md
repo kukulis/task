@@ -7,3 +7,5 @@ When function testMatch works, and you have time, make _testMatchFull to work to
 Need to remove underscore and rename to  testMatchFull. Then run the test again.
 
 The idea is to match by sku only, but must preserve other fields in the results too.
+
+TODO detach from company 'Unishop'
